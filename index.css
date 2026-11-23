@@ -1,0 +1,18 @@
+.sessao {
+    color: rgb(45, 21, 68);
+}
+/**.sessao p{
+    color: darkblue;
+}
+
+.sessao > p{
+    color: darkkhaki;
+}**/
+
+h1 ~ p{
+    color: aquamarine;
+}
+
+h1 + p{
+    color: rgb(1, 29, 53);
+}
